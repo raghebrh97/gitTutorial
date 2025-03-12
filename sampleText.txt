@@ -1,3 +1,4 @@
 This is a sample text file , text is ok
 This is a new line in sample file 1
 New CodeChanges
+Changes from github directly
